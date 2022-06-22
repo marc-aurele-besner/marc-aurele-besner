@@ -11,13 +11,13 @@ You can reach me on different social media:
     alt="Marc-Aurele GitHub stats"
     src="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&theme=tokyonight"
     align="left"
-    width="50%"
+    width="47%"
 />
 <img
     alt="Marc-Aurele GitHub most used languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact"
     align="right"
-    width="50%"
+    width="47%"
 />
 
 <br />
