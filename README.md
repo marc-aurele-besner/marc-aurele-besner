@@ -60,7 +60,7 @@ You can reach me on different social media:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ### My favorite testing tools
-![Hardhat](tinyurl.com/yjs68jbs)
+![Hardhat](https://tinyurl.com/yjs68jbs)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
