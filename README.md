@@ -23,6 +23,11 @@ You can reach me on different social media:
 
 <br />
 
+
+### My favorite languages, blockchains, frameworks, libraries, tools and more
+<details>
+<summary>Click to see my favorite languages, blockchains, frameworks, libraries, tools and more</summary>
+
 ### My favorite languages
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -76,6 +81,7 @@ You can reach me on different social media:
 ![GitHub Action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+</details>
 
 
 <!--
