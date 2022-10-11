@@ -7,7 +7,7 @@ You can reach me on different social media:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/marcus#5693)
 
 <br />
-<table width="100%">
+<table width="100%" border="0">
     <tr>
         <td width="50%" valign="top">
             <img
@@ -26,8 +26,7 @@ You can reach me on different social media:
             />
         </td>
     </tr>
-    <tr>
-<td colspan="2" width="100%>
+</table>
 
 <h3>My favorite languages, blockchains, frameworks, libraries, tools and more</h3>
 <details>
@@ -88,9 +87,6 @@ You can reach me on different social media:
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
 </details>
 
-</td>
-</tr>
-</table>
 <!--
 **marc-aurele-besner/marc-aurele-besner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
