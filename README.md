@@ -7,26 +7,31 @@ You can reach me on different social media:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/marcus#5693)
 
 <br />
+<table width="100%">
+    <tr>
+        <td width="50%" valign="top">
+            <img
+                alt="Marc-Aurele GitHub stats"
+                src="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&theme=tokyonight"
+                align="left"
+                width="100%"
+            />
+        </td>
+        <td width="50%" vertical-align="top">
+            <img
+                alt="Marc-Aurele GitHub most used languages"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact"
+                align="right"
+                width="100%"
+            />
+        </td>
+    </tr>
+    <tr>
+<td colspan="2" width="100%>
 
-<img
-    alt="Marc-Aurele GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&theme=tokyonight"
-    align="left"
-    width="47%"
-/>
-<img
-    alt="Marc-Aurele GitHub most used languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact"
-    align="right"
-    width="47%"
-/>
-
-<br />
-
-
-### My favorite languages, blockchains, frameworks, libraries, tools and more
+<h3>My favorite languages, blockchains, frameworks, libraries, tools and more</h3>
 <details>
-<summary>Click to see my favorite languages, blockchains, frameworks, libraries, tools and more</summary>
+<summary><b>Click to see my favorite languages, blockchains, frameworks, libraries, tools and more</b></summary>
 
 ### My favorite languages
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -83,7 +88,9 @@ You can reach me on different social media:
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
 </details>
 
-
+</td>
+</tr>
+</table>
 <!--
 **marc-aurele-besner/marc-aurele-besner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
