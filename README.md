@@ -45,7 +45,7 @@ You can reach me on different social media:
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Polygon](https://tinyurl.com/ys9yfcpw)
-![Binance Smart Chain](https://tinyurl.com/36y695yp)
+![BNB Chain](https://tinyurl.com/mp2wu3xx)
 
 ### My favorite frameworks, libraries and tools
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -74,8 +74,10 @@ You can reach me on different social media:
 
 ### My favorite testing tools
 ![Hardhat](https://tinyurl.com/yjs68jbs)
+![Foundry](https://tinyurl.com/2s397eh4)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### My favorite cloud platforms&tools
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
