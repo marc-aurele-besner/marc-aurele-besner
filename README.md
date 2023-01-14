@@ -1,6 +1,6 @@
 ### Hi, my name is Marc-Aurele (or Mark) 👋
 
-#### I'm a Web3 full-stack engineer with a passion for blockchain technology and building open-source tools.
+#### I'm a Web3 full-stack & Solidity engineer with a passion for blockchain technology and building open-source tools.
 
 I'm dedicated to creating innovative solutions and tools that make it easier for developers to build decentralized applications and integrate smart contracts into their projects. I believe that blockchain technology has the potential to revolutionize the way we interact online and I'm committed to contributing to its development.
 
