@@ -1,4 +1,14 @@
-## Hi there, I'm Marc-Aurele (or Mark) 👋
+### Hi, my name is Marc-Aurele (or Mark) 👋
+
+#### I'm a Web3 full-stack engineer with a passion for blockchain technology and building open-source tools.
+
+I'm dedicated to creating innovative solutions and tools that make it easier for developers to build decentralized applications and integrate smart contracts into their projects. I believe that blockchain technology has the potential to revolutionize the way we interact online and I'm committed to contributing to its development.
+
+I have great expertise in using frameworks like Hardhat and Foundry for Smart Contracts development. I have built many open-source tools for these frameworks to facilitate smart contract development and make it more accessible for developers. I am also constantly exploring new technologies and frameworks to stay at the forefront of the industry.
+
+I am also deeply committed to sharing my knowledge and helping other developers. I am always willing to lend a hand to those who are stuck on a blocker and I am open to collaborating and contributing to the ecosystem. I have a strong passion for teaching and mentoring, and I believe that by helping others, we can all grow and advance together.
+
+Thank you for visiting my profile, and feel free to reach out to me if you have any questions or if you want to collaborate on a project. I'll be happy to talk more about how we can work together to advance the blockchain ecosystem.
 
 You can reach me on different social media:
 
