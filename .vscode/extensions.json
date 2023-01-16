@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "anseki.vscode-color",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "GitHub.copilot",
+    "DavidAnson.vscode-markdownlint"
+  ]
+}
