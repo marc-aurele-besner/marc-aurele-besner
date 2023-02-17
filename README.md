@@ -41,16 +41,16 @@ You can reach me on different social media:
 <td width="50%" vertical-align="top" border="0">
 <picture>
 <source
-                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=6&bg_color=00000000"
+                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=8&bg_color=00000000"
                     media="(prefers-color-scheme: dark)"
                 />
 <source
-                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&layout=compact&langs_count=6&bg_color=00000000"
+                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&layout=compact&langs_count=8&bg_color=00000000"
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 />
 <img 
                     alt="Marc-Aurele GitHub most used languages"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=6&bg_color=00000000"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=8&bg_color=00000000"
                     align="right"
                     width="100%"
                 />
