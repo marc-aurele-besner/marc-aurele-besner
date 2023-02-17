@@ -12,30 +12,52 @@ Thank you for visiting my profile, and feel free to reach out to me if you have 
 
 You can reach me on different social media:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-aurele-besner/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/marcaureleb)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/marcus#5693)
-
 <br />
 <table width="100%" border="0">
     <tr>
-        <td width="50%" valign="top">
-            <img
-                alt="Marc-Aurele GitHub stats"
-                src="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&theme=tokyonight"
-                align="left"
-                width="100%"
-            />
-        </td>
-        <td width="50%" vertical-align="top">
-            <img
-                alt="Marc-Aurele GitHub most used languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact"
-                align="right"
-                width="100%"
-            />
-        </td>
-    </tr>
+        <td width="50%" valign="top" border="0">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-aurele-besner/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/marcaureleb)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/marcus#5693)
+<picture>
+
+<source 
+                    srcset="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000"
+                    media="(prefers-color-scheme: dark)"
+                />
+<source
+                    srcset="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&bg_color=00000000"
+                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                />
+<img
+                    alt="Marc-Aurele GitHub stats"
+                    src="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&bg_color=00000000"
+                    align="left"
+                    width="100%"
+                />
+</picture>
+</td>
+<td width="50%" vertical-align="top" border="0">
+<picture>
+<source
+                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=6&bg_color=00000000"
+                    media="(prefers-color-scheme: dark)"
+                />
+<source
+                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&layout=compact&langs_count=6&bg_color=00000000"
+                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                />
+<img 
+                    alt="Marc-Aurele GitHub most used languages"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=6&bg_color=00000000"
+                    align="right"
+                    width="100%"
+                />
+</picture>
+</td>
+</tr>
+
 </table>
 
 <h3>My favorite languages, blockchains, frameworks, libraries, tools and more</h3>
@@ -43,6 +65,7 @@ You can reach me on different social media:
 <summary><b>Click to see my favorite languages, blockchains, frameworks, libraries, tools and more</b></summary>
 
 ### My favorite languages
+
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,12 +75,14 @@ You can reach me on different social media:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### My favorite blockchains
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Polygon](https://tinyurl.com/ys9yfcpw)
 ![BNB Chain](https://tinyurl.com/mp2wu3xx)
 
 ### My favorite frameworks, libraries and tools
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
@@ -75,6 +100,7 @@ You can reach me on different social media:
 ![Slack API](https://img.shields.io/badge/Slack--API-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### My favorite UI/UX tools
+
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -83,6 +109,7 @@ You can reach me on different social media:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ### My favorite testing tools
+
 ![Hardhat](https://tinyurl.com/yjs68jbs)
 ![Foundry](https://tinyurl.com/2s397eh4)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -90,6 +117,7 @@ You can reach me on different social media:
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### My favorite cloud platforms&tools
+
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -97,6 +125,7 @@ You can reach me on different social media:
 ![GitHub Action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+
 </details>
 
 <!--
