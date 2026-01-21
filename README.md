@@ -1,32 +1,33 @@
 ### Hi, I'm Marc-Aurele
 
-Senior Web3 and AI engineer focused on smart contracts, developer tooling, agents and on-chain infrastructure. I like building systems that make developers faster and products more reliable. My work spans Solidity, multi-chain infra, SDKs, payments, indexing and full-stack applications built in TypeScript and Next.js.
+Senior Web3 and AI engineer focused on smart contracts, developer tooling, agents and on-chain infrastructure. I build systems that make developers faster and products more reliable. My work spans Solidity, multi-chain infra, SDKs, payments, indexing and full-stack applications in TypeScript and Next.js.
 
-I care about correctness, developer experience and fast iteration. I prototype aggressively, ship often and explore new tooling around agents and AI assisted development.
+Current focus areas: stablecoin payments, developer tooling, agents and AI assisted engineering workflows.
+
+I care about developer experience and fast iteration. I prototype aggressively, ship often and explore new technical primitives around agents and applied AI for development.
 
 ### Current Work
 
 • PayXor: on-chain stablecoin payments with EIP-712 receipts, backend-authoritative pricing and multi-chain support  
-• VibeInProd: productionizing and hardening AI coded MVPs and agent generated software  
-• Experiments: agents, LLM workflows, DX tools, SDKs and indexing systems
+• VibeInProd: productionizing and hardening AI coded MVPs and agent generated software for founders  
 
 ### Selected Projects
 
-• Fully on-chain NFTs with permanent metadata and content  
-• Self-hosted block explorer and SDK for a Substrate based network  
-• Permanent on-chain file storage via chunked IPLD uploads  
-• Smart contracts and decentralized identity features for consumer facing apps  
-• CLI and testing tools for smart contract development and refactoring  
-• LLM assisted code workflows and AI powered development loops
+• Fully on-chain NFTs with permanent metadata and content storage  
+• On-chain file uploads via chunked IPLD and Substrate based networks  
+• Self-hosted block explorer and indexing toolkit for custom chains  
+• Smart contracts and decentralized identity features for consumer apps  
+• SDK and CLI tools for smart contract development and refactoring  
+• LLM assisted development workflows and agent driven code loops  
 
 ### Technical Areas
 
-• Smart contracts, protocol design and EVM internals (Solidity, Foundry, viem)  
-• Payments and stablecoins (EIP-712, signatures, multi-chain execution)  
-• Indexing and data access (SubSquid, Postgres, custom indexers)  
-• Full-stack (Next.js, Node.js, TypeScript, React)  
-• Developer tooling (SDKs, CLIs, CI)  
-• Agents and AI assisted engineering workflows
+• Smart contracts, protocol design and EVM internals (Solidity, Foundry, Hardhat, viem)  
+• Payments and stablecoins (EIP-712, signatures, backend pricing, multi-chain execution)  
+• Indexing and data access (SubGraph, SubQuery, SubSquid, Postgres, IPLD, custom indexers)  
+• Full-stack (Next.js, Node.js, TypeScript, React, Express, BullMQ)  
+• Developer tooling (SDKs, MCPs, CLIs, testing, CI)  
+• Agents and AI assisted engineering workflows  
 
 ### Connect
 
