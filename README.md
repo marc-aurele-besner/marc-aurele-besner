@@ -11,13 +11,12 @@ Core specialties: smart contracts, AI agents, decentralized infrastructure, and 
 At [Antler Labs](https://antlerlabs.dev), I take products from early concept through architecture, implementation, launch and iteration:
 
 • [OpenDrift](https://opendrift.app) (live): explore the full probability landscape of LLM responses with Verbalized Sampling — candidate answers with probability scores via OpenRouter  
-• [PayXor](https://payxor.xyz) (live): on-chain stablecoin payment infrastructure for Web3 apps — sessions, features, receipts and passes across EVM networks  
 • In development: [LaCrew](https://antlerlabs.dev) (treasury and governance layer for AI agent organizations), [FileOnChain](https://antlerlabs.dev) (portable evidence envelopes and AI audit trails) and [Channlize](https://antlerlabs.dev) (Slack-native customer support)  
-
-Also: [VibeInProd](https://marcaurelebesner.com/projects/vibeinprod) — AI codebase stabilization service for seed to Series A startups
 
 ### Selected Projects
 
+• [PayXor](https://payxor.xyz): on-chain stablecoin payment infrastructure for Web3 apps — sessions, features, receipts and passes across EVM networks  
+• [VibeInProd](https://marcaurelebesner.com/projects/vibeinprod): AI codebase stabilization service for seed to Series A startups  
 • [EternalMint](https://marcaurelebesner.com/projects/eternal-mint): NFT minting with permanent, fully on-chain storage  
 • [Astral Block Explorer](https://marcaurelebesner.com/projects/astral-block-explorer): production block explorer for the Autonomys network  
 • [AI3.info](https://marcaurelebesner.com/projects/ai3-info): 3D dashboard for Autonomys network statistics  
