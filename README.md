@@ -1,35 +1,35 @@
 ### Hi, I'm Marc-Aurele
 
-Senior Web3/AI Engineer with 5+ years shipping Web3 products — from smart contracts and SDKs to block explorers and AI agents. I bring both technical depth and the ability to translate complex systems into developer-friendly tools.
+Senior Web3/AI Engineer with 5+ years shipping Web3 products, from smart contracts and SDKs to block explorers and AI agents. I bring both technical depth and the ability to translate complex systems into developer-friendly tools.
 
-Currently Principal Product Engineer at [Antler Labs](https://antlerlabs.dev), an independent product & engineering studio building across AI, developer tools, infrastructure and emerging technologies — *"Ideas branch. We build them."* On the side, I'm exploring AI-assisted DeFi agents and decentralized infrastructure.
+Currently Principal Product Engineer at [Antler Labs](https://antlerlabs.dev), an independent product & engineering studio building across AI, developer tools, infrastructure and emerging technologies (*"Ideas branch. We build them."*). On the side, I'm exploring AI-assisted DeFi agents and decentralized infrastructure.
 
 Core specialties: smart contracts, AI agents, decentralized infrastructure, and developer tooling & SDKs.
 
 ### Experience
 
-• **[Antler Labs](https://marcaurelebesner.com/experience/antler-labs)** — Principal Product Engineer (Jun 2025 – Present)  
+• **[Antler Labs](https://marcaurelebesner.com/experience/antler-labs)** · Principal Product Engineer (Jun 2025 - Present)  
   Architect and build production software across AI, developer tooling, infrastructure and blockchain systems at an independent product & engineering studio.  
-• **[Autonomys Network](https://marcaurelebesner.com/experience/autonomys)** — Lead Software Engineer (Apr 2024 – Jun 2025)  
+• **[Autonomys Network](https://marcaurelebesner.com/experience/autonomys)** · Lead Software Engineer (Apr 2024 - Jun 2025)  
   Led design and implementation of production indexing systems, block explorer, developer SDKs and EVM tooling.  
-• **[Oamo](https://marcaurelebesner.com/experience/oamo)** — Full-Stack Web3 Software Engineer (Mar 2023 – Apr 2024)  
+• **[Oamo](https://marcaurelebesner.com/experience/oamo)** · Full-Stack Web3 Software Engineer (Mar 2023 - Apr 2024)  
   Authored Solidity smart contracts for rewards and profiles, integrated decentralized data systems using Ceramic Network and Lit Protocol.  
-• **[Gluwa](https://marcaurelebesner.com/experience/gluwa)** — Smart Contract Engineer (Feb 2022 – Jun 2023)  
+• **[Gluwa](https://marcaurelebesner.com/experience/gluwa)** · Smart Contract Engineer (Feb 2022 - Jun 2023)  
   Developed staking systems, DAOs and multisig wallets; built internal dashboards and automated reporting tools.  
-• **[Indigo Blockchain School](https://marcaurelebesner.com/experience/indigo)** — Blockchain Programming Instructor (Jan 2023 – Apr 2023)  
+• **[Indigo Blockchain School](https://marcaurelebesner.com/experience/indigo)** · Blockchain Programming Instructor (Jan 2023 - Apr 2023)  
   Led hands-on courses on smart contract development with Solidity, Hardhat and Foundry.  
 
 Full history at [marcaurelebesner.com/experience](https://marcaurelebesner.com/experience)
 
 ### Projects
 
-• [OpenDrift](https://opendrift.app): explore the full probability landscape of LLM responses with Verbalized Sampling — candidate answers with probability scores via OpenRouter  
-• [LaCrew](https://antlerlabs.dev): treasury and governance layer for AI agent organizations — payroll, budgets, approvals and smart accounts (in development)  
+• [Skillable](https://github.com/marc-aurele-besner/skillable): curated collection of Cursor Agent Skills, reusable instructions that teach AI agents how to perform specific tasks  
+• [OpenDrift](https://opendrift.app): explore the full probability landscape of LLM responses with Verbalized Sampling, returning candidate answers with probability scores via OpenRouter  
+• [LaCrew](https://antlerlabs.dev): treasury and governance layer for AI agent organizations, with payroll, budgets, approvals and smart accounts (in development)  
 • [FileOnChain](https://antlerlabs.dev): portable evidence envelopes and AI audit trails (in development)  
 • [Channlize](https://antlerlabs.dev): Slack-native customer support with React component integration (in development)  
-• [PayXor](https://payxor.xyz): on-chain stablecoin payment infrastructure for Web3 apps — sessions, features, receipts and passes across EVM networks  
+• [PayXor](https://payxor.xyz): on-chain stablecoin payment infrastructure for Web3 apps, covering sessions, features, receipts and passes across EVM networks  
 • [VibeInProd](https://marcaurelebesner.com/projects/vibeinprod): AI codebase stabilization service for seed to Series A startups  
-• [Skillable](https://github.com/marc-aurele-besner/skillable): curated collection of Cursor Agent Skills — reusable instructions that teach AI agents how to perform specific tasks  
 • [EternalMint](https://marcaurelebesner.com/projects/eternal-mint): NFT minting with permanent, fully on-chain storage  
 • [Astral Block Explorer](https://marcaurelebesner.com/projects/astral-block-explorer): production block explorer for the Autonomys network  
 • [AI3.info](https://marcaurelebesner.com/projects/ai3-info): 3D dashboard for Autonomys network statistics  
@@ -50,7 +50,7 @@ More at [marcaurelebesner.com/projects](https://marcaurelebesner.com/projects)
 
 ### Advisory
 
-I also advise teams on smart contract architecture, SDK and developer tooling, and product/engineering strategy — available hourly, on retainer or per project. Details at [marcaurelebesner.com](https://marcaurelebesner.com/#advisory).
+I also advise teams on smart contract architecture, SDK and developer tooling, and product/engineering strategy. Available hourly, on retainer or per project. Details at [marcaurelebesner.com](https://marcaurelebesner.com/#advisory).
 
 ### Connect
 
