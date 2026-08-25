@@ -43,16 +43,16 @@ I care about developer experience and fast iteration. I prototype aggressively, 
 
 <picture>
 <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
+    srcset="https://github-stats-extended.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
 />
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
+    srcset="https://github-stats-extended.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img
     alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
+    src="https://github-stats-extended.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
     align="left"
     width="100%"
 />
@@ -63,16 +63,16 @@ I care about developer experience and fast iteration. I prototype aggressively, 
 
 <picture>
 <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=12&bg_color=00000000"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=12&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
 />
 <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&layout=compact&langs_count=12&bg_color=00000000"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=marc-aurele-besner&layout=compact&langs_count=12&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img 
     alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=12&bg_color=00000000"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=12&bg_color=00000000"
     align="right"
     width="100%"
 />
