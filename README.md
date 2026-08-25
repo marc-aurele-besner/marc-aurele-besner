@@ -1,33 +1,56 @@
 ### Hi, I'm Marc-Aurele
 
-Senior Web3 and AI engineer focused on smart contracts, developer tooling, agents and on-chain infrastructure. I build systems that make developers faster and products more reliable. My work spans Solidity, multi-chain infra, SDKs, payments, indexing and full-stack applications in TypeScript and Next.js.
+Senior Web3/AI Engineer with 5+ years shipping Web3 products, from smart contracts and SDKs to block explorers and AI agents. I bring both technical depth and the ability to translate complex systems into developer-friendly tools.
 
-Current focus areas: stablecoin payments, developer tooling, agents and AI assisted engineering workflows.
+Currently Principal Product Engineer at [Antler Labs](https://antlerlabs.dev), an independent product & engineering studio building across AI, developer tools, infrastructure and emerging technologies (*"Ideas branch. We build them."*). On the side, I'm exploring AI-assisted DeFi agents and decentralized infrastructure.
 
-I care about developer experience and fast iteration. I prototype aggressively, ship often and explore new technical primitives around agents and applied AI for development.
+Core specialties: smart contracts, AI agents, decentralized infrastructure, and developer tooling & SDKs.
 
-### Current Work
+### Experience
 
-• PayXor: on-chain stablecoin payments with EIP-712 receipts, backend-authoritative pricing and multi-chain support  
-• VibeInProd: productionizing and hardening AI coded MVPs and agent generated software for founders  
+• **[Antler Labs](https://marcaurelebesner.com/experience/antler-labs)** · Principal Product Engineer (Jun 2025 - Present)  
+  Architect and build production software across AI, developer tooling, infrastructure and blockchain systems at an independent product & engineering studio.  
+• **[Autonomys Network](https://marcaurelebesner.com/experience/autonomys)** · Lead Software Engineer (Apr 2024 - Jun 2025)  
+  Led design and implementation of production indexing systems, block explorer, developer SDKs and EVM tooling.  
+• **[Oamo](https://marcaurelebesner.com/experience/oamo)** · Full-Stack Web3 Software Engineer (Mar 2023 - Apr 2024)  
+  Authored Solidity smart contracts for rewards and profiles, integrated decentralized data systems using Ceramic Network and Lit Protocol.  
+• **[Gluwa](https://marcaurelebesner.com/experience/gluwa)** · Smart Contract Engineer (Feb 2022 - Jun 2023)  
+  Developed staking systems, DAOs and multisig wallets; built internal dashboards and automated reporting tools.  
+• **[Indigo Blockchain School](https://marcaurelebesner.com/experience/indigo)** · Blockchain Programming Instructor (Jan 2023 - Apr 2023)  
+  Led hands-on courses on smart contract development with Solidity, Hardhat and Foundry.  
 
-### Selected Projects
+Full history at [marcaurelebesner.com/experience](https://marcaurelebesner.com/experience)
 
-• Fully on-chain NFTs with permanent metadata and content storage  
-• On-chain file uploads via chunked IPLD and Substrate based networks  
-• Self-hosted block explorer and indexing toolkit for custom chains  
-• Smart contracts and decentralized identity features for consumer apps  
-• SDK and CLI tools for smart contract development and refactoring  
-• LLM assisted development workflows and agent driven code loops  
+### Projects
+
+• [Skillable](https://github.com/marc-aurele-besner/skillable): curated collection of Cursor Agent Skills, reusable instructions that teach AI agents how to perform specific tasks  
+• [LaCrew](https://antlerlabs.dev): treasury and governance layer for AI agent organizations, with payroll, budgets, approvals and smart accounts (in development)  
+• [FileOnChain](https://antlerlabs.dev): portable evidence envelopes and AI audit trails (in development)  
+• [OpenDrift](https://opendrift.app): explore the full probability landscape of LLM responses with Verbalized Sampling, returning candidate answers with probability scores via OpenRouter  
+• [Channlize](https://antlerlabs.dev): Slack-native customer support with React component integration (in development)  
+• [PayXor](https://payxor.xyz): on-chain stablecoin payment infrastructure for Web3 apps, covering sessions, features, receipts and passes across EVM networks  
+• [VibeInProd](https://marcaurelebesner.com/projects/vibeinprod): AI codebase stabilization service for seed to Series A startups  
+• [EternalMint](https://marcaurelebesner.com/projects/eternal-mint): NFT minting with permanent, fully on-chain storage  
+• [Astral Block Explorer](https://marcaurelebesner.com/projects/astral-block-explorer): production block explorer for the Autonomys network  
+• [AI3.info](https://marcaurelebesner.com/projects/ai3-info): 3D dashboard for Autonomys network statistics  
+• [Autonomys Auto-SDK](https://marcaurelebesner.com/projects/autonomys-auto-sdk): TypeScript SDK for Web3/AI developers  
+• [CircusConnect](https://marcaurelebesner.com/projects/circus-connect): community-driven circus arts knowledge base  
+
+More at [marcaurelebesner.com/projects](https://marcaurelebesner.com/projects)
 
 ### Technical Areas
 
 • Smart contracts, protocol design and EVM internals (Solidity, Foundry, Hardhat, viem)  
 • Payments and stablecoins (EIP-712, signatures, backend pricing, multi-chain execution)  
-• Indexing and data access (SubGraph, SubQuery, SubSquid, Postgres, IPLD, custom indexers)  
-• Full-stack (Next.js, Node.js, TypeScript, React, Express, BullMQ)  
+• Indexing and data access (GraphQL, SubGraph, SubQuery, SubSquid, PostgreSQL, IPLD, custom indexers)  
+• Full-stack (Next.js, Node.js, TypeScript, React, Python, Three.js)  
+• Substrate and Polkadot ecosystems (Polkadot.js, custom chains)  
 • Developer tooling (SDKs, MCPs, CLIs, testing, CI)  
 • Agents and AI assisted engineering workflows  
+
+### Advisory
+
+I also advise teams on smart contract architecture, SDK and developer tooling, and product/engineering strategy. Available hourly, on retainer or per project. Details at [marcaurelebesner.com](https://marcaurelebesner.com/#advisory).
 
 ### Connect
 
@@ -43,16 +66,16 @@ I care about developer experience and fast iteration. I prototype aggressively, 
 
 <picture>
 <source 
-    srcset="https://github-stats-extended.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
 />
 <source
-    srcset="https://github-stats-extended.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img
     alt="GitHub stats"
-    src="https://github-stats-extended.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
+    src="https://github-readme-stats.vercel.app/api?username=marc-aurele-besner&count_private=true&show_icons=true&bg_color=00000000&show=reviews,prs_merged,prs_merged_percentage"
     align="left"
     width="100%"
 />
@@ -63,16 +86,16 @@ I care about developer experience and fast iteration. I prototype aggressively, 
 
 <picture>
 <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=12&bg_color=00000000"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=12&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
 />
 <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=marc-aurele-besner&layout=compact&langs_count=12&bg_color=00000000"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&layout=compact&langs_count=12&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img 
     alt="Top languages"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=12&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-aurele-besner&theme=tokyonight&layout=compact&langs_count=12&bg_color=00000000"
     align="right"
     width="100%"
 />
