@@ -24,9 +24,9 @@ Full history at [marcaurelebesner.com/experience](https://marcaurelebesner.com/e
 ### Projects
 
 • [Skillable](https://github.com/marc-aurele-besner/skillable): curated collection of Cursor Agent Skills, reusable instructions that teach AI agents how to perform specific tasks  
-• [OpenDrift](https://opendrift.app): explore the full probability landscape of LLM responses with Verbalized Sampling, returning candidate answers with probability scores via OpenRouter  
 • [LaCrew](https://antlerlabs.dev): treasury and governance layer for AI agent organizations, with payroll, budgets, approvals and smart accounts (in development)  
 • [FileOnChain](https://antlerlabs.dev): portable evidence envelopes and AI audit trails (in development)  
+• [OpenDrift](https://opendrift.app): explore the full probability landscape of LLM responses with Verbalized Sampling, returning candidate answers with probability scores via OpenRouter  
 • [Channlize](https://antlerlabs.dev): Slack-native customer support with React component integration (in development)  
 • [PayXor](https://payxor.xyz): on-chain stablecoin payment infrastructure for Web3 apps, covering sessions, features, receipts and passes across EVM networks  
 • [VibeInProd](https://marcaurelebesner.com/projects/vibeinprod): AI codebase stabilization service for seed to Series A startups  
