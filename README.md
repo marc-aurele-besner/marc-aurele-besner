@@ -6,17 +6,30 @@ Currently Principal Product Engineer at [Antler Labs](https://antlerlabs.dev), a
 
 Core specialties: smart contracts, AI agents, decentralized infrastructure, and developer tooling & SDKs.
 
-### Current Work
+### Experience
 
-At [Antler Labs](https://antlerlabs.dev), I take products from early concept through architecture, implementation, launch and iteration:
+• **[Antler Labs](https://marcaurelebesner.com/experience/antler-labs)** — Principal Product Engineer (Jun 2025 – Present)  
+  Architect and build production software across AI, developer tooling, infrastructure and blockchain systems at an independent product & engineering studio.  
+• **[Autonomys Network](https://marcaurelebesner.com/experience/autonomys)** — Lead Software Engineer (Apr 2024 – Jun 2025)  
+  Led design and implementation of production indexing systems, block explorer, developer SDKs and EVM tooling.  
+• **[Oamo](https://marcaurelebesner.com/experience/oamo)** — Full-Stack Web3 Software Engineer (Mar 2023 – Apr 2024)  
+  Authored Solidity smart contracts for rewards and profiles, integrated decentralized data systems using Ceramic Network and Lit Protocol.  
+• **[Gluwa](https://marcaurelebesner.com/experience/gluwa)** — Smart Contract Engineer (Feb 2022 – Jun 2023)  
+  Developed staking systems, DAOs and multisig wallets; built internal dashboards and automated reporting tools.  
+• **[Indigo Blockchain School](https://marcaurelebesner.com/experience/indigo)** — Blockchain Programming Instructor (Jan 2023 – Apr 2023)  
+  Led hands-on courses on smart contract development with Solidity, Hardhat and Foundry.  
 
-• [OpenDrift](https://opendrift.app) (live): explore the full probability landscape of LLM responses with Verbalized Sampling — candidate answers with probability scores via OpenRouter  
-• In development: [LaCrew](https://antlerlabs.dev) (treasury and governance layer for AI agent organizations), [FileOnChain](https://antlerlabs.dev) (portable evidence envelopes and AI audit trails) and [Channlize](https://antlerlabs.dev) (Slack-native customer support)  
+Full history at [marcaurelebesner.com/experience](https://marcaurelebesner.com/experience)
 
-### Selected Projects
+### Projects
 
+• [OpenDrift](https://opendrift.app): explore the full probability landscape of LLM responses with Verbalized Sampling — candidate answers with probability scores via OpenRouter  
+• [LaCrew](https://antlerlabs.dev): treasury and governance layer for AI agent organizations — payroll, budgets, approvals and smart accounts (in development)  
+• [FileOnChain](https://antlerlabs.dev): portable evidence envelopes and AI audit trails (in development)  
+• [Channlize](https://antlerlabs.dev): Slack-native customer support with React component integration (in development)  
 • [PayXor](https://payxor.xyz): on-chain stablecoin payment infrastructure for Web3 apps — sessions, features, receipts and passes across EVM networks  
 • [VibeInProd](https://marcaurelebesner.com/projects/vibeinprod): AI codebase stabilization service for seed to Series A startups  
+• [Skillable](https://github.com/marc-aurele-besner/skillable): curated collection of Cursor Agent Skills — reusable instructions that teach AI agents how to perform specific tasks  
 • [EternalMint](https://marcaurelebesner.com/projects/eternal-mint): NFT minting with permanent, fully on-chain storage  
 • [Astral Block Explorer](https://marcaurelebesner.com/projects/astral-block-explorer): production block explorer for the Autonomys network  
 • [AI3.info](https://marcaurelebesner.com/projects/ai3-info): 3D dashboard for Autonomys network statistics  
